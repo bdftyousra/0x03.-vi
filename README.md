@@ -135,6 +135,6 @@ vi -r filename	    : recover filename that was being edited when system crashe
 ## WARNING!!
 ```diff
 - This repo is done as a school assignment. Beware of copying my responses.
-- I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
-- This repo may contain some errors. If you notice any, please add a pull request.
+- I recommend you  to read resources and come up with your own solutions </br> instead. Feel free to reach out for help!
+- This repo may contain some errors. If you notice any, </br> please add a pull request.
 ```
